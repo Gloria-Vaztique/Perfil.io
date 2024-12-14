@@ -101,18 +101,15 @@ footer{
     #adapt {
         width: 100%;
         height: 100%;
-        font-size: 80%;
+        font-size: 92%;
     }
     .conteiner{
         width: 100%;
         height: 100%;
-        font-size: 80%;
+        font-size: 86%;
     }
     .interlineado{
-        font-size: 55%;
+        font-size: 57%;
     }
-    h3{
-        font-size: 99%;
-        padding-bottom: 1%;
-    }
+    
 }
